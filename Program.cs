@@ -56,7 +56,7 @@ if (!double.TryParse(ConfigurationManager.AppSettings["RothBalance"], out rothBa
 // If you want to  early retire @ 45, you must start converting Trad=>Roth for retirement @ 40
 var rothLadderStartAge = earlyRetirementAge - 5;
 var rothLadderStartDistributionAge = earlyRetirementAge;
-var rothLadderEndAge = 50;
+var rothLadderEndAge = earlyRetirementAge + 5;
 
 if (earlyRetirementAge <= currAge || earlyRetirementAge <= (currAge + 5))
 {
