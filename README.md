@@ -31,4 +31,5 @@ This calculator takes the above assumptions into account, and tries to simulate 
 * Roth: $0 (Default)
 
 ### Screenshot
-<img width="1419" alt="image" src="https://github.com/tynorton/RothLadderRetirementCalc/assets/811086/38267d80-c5cd-4881-9d6a-d31c008dc343">
+<img width="1419" alt="image" src="https://github.com/tynorton/RothLadderRetirementCalc/assets/811086/012ab8ce-77cc-41ab-b4a8-6f4141098751">
+
